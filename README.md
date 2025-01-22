@@ -1,10 +1,11 @@
 # CANDELIGHT
 A dangerous and stupid IoT device that brings light (and fire) to your livingroom.
 
-![](https://github.com/twdiap/candelight/candelight_small.gif)
+![](https://github.com/Twdiap/candelight/blob/7848b40cd830d02c710b343f0249d89e593bf408/candelight_small.gif)
 
 CANDELIGHT is a wifi candle with a real flame.
 The two versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
+
 
 The heart of this project is a ESP8266 from Espressif and was originally made using Micropython but I quickly changed to Arduino IDE (for library management purposes).
 
