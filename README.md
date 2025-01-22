@@ -14,7 +14,7 @@ The three versions are still in developement and if you feel the urge to improve
 
 The big one is called *Triple Buse*.
 
-The small one is called *La flamme*.
+The small one is called *Smol flamme*.
 
 The last one is meant to power old oil lamps and react to a double tap on the side of the device (it isn't wifi connected but feel free to add connectivity).
 
@@ -41,7 +41,7 @@ To build it you'll need:
 
 
 
-Electronic schematics are on their way (for Triple Buse and Flamme only).
+Electronic schematics are on their way (for Triple Buse and Smol Flamme only).
 3D models are also on their way but need tweaking.
 
 I won't provide any building instructions so you can utilize your own creativity but I'll share every details, 3D model and schematics.
