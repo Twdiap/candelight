@@ -6,8 +6,13 @@ A dangerous and stupid IoT device that brings **light (and fire)** to your livin
 
 
 
-CANDELIGHT is a wifi candle with a real flame.
-The two versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
+**CANDELIGHT** is a wifi candle with a real flame.
+The three versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
+
+
+The big one is called *Triple Buse*.
+The small one is called *La flamme*.
+The last one is meant to power old oil lamps and react to a double tap on the side of the device (it isn't wifi connected but feel free to add connectivity).
 
 
 The heart of this project is a ESP8266 from Espressif and was originally made using Micropython but I quickly changed to Arduino IDE (for library management purposes).
@@ -25,6 +30,9 @@ To build it you'll need:
   - 1 gas lighter or canister (you should use a gas lighter like a Clipper to reduce gas leak risks)
   - 1 3d printer nozzle .4 to .6 (for ventury effect to help the flame detach from the nozzle and keep it as cold as possible)
   - Anything that might help you build it.
+
+
+
 
 
 # DISCLAIMER
