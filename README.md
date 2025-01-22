@@ -1,6 +1,8 @@
 # CANDELIGHT
 A dangerous and stupid IoT device that brings light (and fire) to your livingroom.
 
+![](https://github.com/twdiap/candelight/candelight_small.gif)
+
 CANDELIGHT is a wifi candle with a real flame.
 The two versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
 
