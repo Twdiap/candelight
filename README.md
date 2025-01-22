@@ -35,6 +35,8 @@ To build it you'll need:
   - Anything that might help you build it.
 
 
+Electronic schematics are on their way (for Triple Buse and Flamme only).
+3D models are also on their way but need tweaking.
 
 
 
