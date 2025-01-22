@@ -1,5 +1,5 @@
 # CANDELIGHT
-A dangerous and stupid IoT device that brings light (and fire) to your livingroom.
+A dangerous and stupid IoT device that brings **light (and fire)** to your livingroom.
 
 ![](https://github.com/Twdiap/candelight/blob/401684eaa64b8484ce8360bf1a1483adcd3d3ae6/candelight_triplebuse.gif)
 ![](https://github.com/Twdiap/candelight/blob/5c5c1967fc67fba97c73a3a6e5a90c5af62afa38/candelight_small.gif)
@@ -31,7 +31,7 @@ To build it you'll need:
 
 This project is provided "as is" without any warranties, express or implied.
 
-BY USING THIS CODE, YOU AGREE THAT:
+**BY USING THIS CODE, YOU AGREE THAT:**
 
 1. The author shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption) arising from the use of this code.
 
@@ -47,4 +47,4 @@ BY USING THIS CODE, YOU AGREE THAT:
 
 7. The author makes no representations or warranties regarding the accuracy, completeness, or reliability of this code.
 
-USE AT YOUR OWN RISK.
+**USE AT YOUR OWN RISK.**
