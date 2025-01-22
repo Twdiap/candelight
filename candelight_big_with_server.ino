@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <Servo.h>
 
-const char* ssid = "TANK2_1937";
-const char* password = "v6353A76?";
+const char* ssid = "REPLACE_WITH_YOUR_SSID";
+const char* password = "REPLACE_WITH_YOUR_PASSWORD?";
 
 WiFiServer server(80);
 
@@ -31,9 +31,9 @@ const long timeoutTime = 8000;
 void setup() {
   Serial.begin(115200);
 
-  pinMode(33, OUTPUT);  // buse servo
-  pinMode(35, OUTPUT);  // buse servo
-  pinMode(37, OUTPUT);  // buse servo
+  pinMode(33, OUTPUT);  // buse servo 1
+  pinMode(35, OUTPUT);  // buse servo 2
+  pinMode(37, OUTPUT);  // buse servo 3
   pinMode(6, OUTPUT);  // gas servo
   pinMode(5, OUTPUT);   // plasma relay
   pinMode(output15, OUTPUT);
