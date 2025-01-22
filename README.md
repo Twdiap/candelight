@@ -3,7 +3,7 @@ A dangerous and stupid IoT device that brings **light (and fire)** to your livin
 
 ![](https://github.com/Twdiap/candelight/blob/401684eaa64b8484ce8360bf1a1483adcd3d3ae6/candelight_triplebuse.gif)
 ![](https://github.com/Twdiap/candelight/blob/5c5c1967fc67fba97c73a3a6e5a90c5af62afa38/candelight_small.gif)
-
+![](https://github.com/Twdiap/candelight/blob/e6c16d8d80624f844098e677a2f1397a66331b6b/candelight_oil.gif)
 
 
 **CANDELIGHT** is a wifi candle with a real flame.
