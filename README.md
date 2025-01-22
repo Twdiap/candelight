@@ -7,11 +7,14 @@ A dangerous and stupid IoT device that brings **light (and fire)** to your livin
 
 
 **CANDELIGHT** is a wifi candle with a real flame.
+
 The three versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
 
 
 The big one is called *Triple Buse*.
+
 The small one is called *La flamme*.
+
 The last one is meant to power old oil lamps and react to a double tap on the side of the device (it isn't wifi connected but feel free to add connectivity).
 
 
