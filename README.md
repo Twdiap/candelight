@@ -11,6 +11,7 @@ A dangerous and stupid IoT device that brings **light (and fire)** to your livin
 The three versions are still in developement and if you feel the urge to improve security I NEED YOUR HELP.
 
 
+
 The big one is called *Triple Buse*.
 
 The small one is called *La flamme*.
@@ -18,10 +19,13 @@ The small one is called *La flamme*.
 The last one is meant to power old oil lamps and react to a double tap on the side of the device (it isn't wifi connected but feel free to add connectivity).
 
 
+
 The heart of this project is a ESP8266 from Espressif and was originally made using Micropython but I quickly changed to Arduino IDE (for library management purposes).
 
 
-To be clear you SHOULD NOT build this object yourself unless you're aware of security risks involving a flame AND wifi connectivity.
+**To be clear you SHOULD NOT build this object yourself unless you're aware of security risks involving a flame AND wifi connectivity.**
+
+
 
 
 To build it you'll need:
@@ -35,8 +39,12 @@ To build it you'll need:
   - Anything that might help you build it.
 
 
+
+
 Electronic schematics are on their way (for Triple Buse and Flamme only).
 3D models are also on their way but need tweaking.
+
+I won't provide any building instructions so you can utilize your own creativity but I'll share every details, 3D model and schematics.
 
 
 
