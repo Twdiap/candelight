@@ -1,4 +1,4 @@
-# candelight
+# CANDELIGHT
 A dangerous and stupid IoT device that brings light (and fire) to your livingroom.
 
 CANDELIGHT is a wifi candle with a real flame.
